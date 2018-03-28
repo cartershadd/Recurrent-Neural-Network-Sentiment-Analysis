@@ -1,0 +1,1 @@
+C:\Users\Carter\AppData\Local\Programs\Python\Python35\Scripts\tensorboard.exe --logdir=logdir
